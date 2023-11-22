@@ -8,7 +8,7 @@
 
 <h1>Features🚀</h1>
 </ul>
-  <li>Ability to update Questions from API calls</li>
+  <li>Ability to update questions from API calls</li>
   <li>Display attractive UI with different questions each time</li>
   <li>API fetching and managing for different answers and question</li>
   <li>Recreating different quizzes</li>
